@@ -1,0 +1,30 @@
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  height: 100vh;
+  max-width: 1400px;
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper {
+  position: relative;
+  display: flex;
+  margin-top: 15%;
+  justify-content: center;
+}
+
+
+
+
+

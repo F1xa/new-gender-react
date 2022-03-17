@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gender-React/static/css/main.f2d413f5.css",
+    "main.js": "/Gender-React/static/js/main.a9bd103c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Gender-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Gender-React/index.html",
+    "main.f2d413f5.css.map": "/Gender-React/static/css/main.f2d413f5.css.map",
+    "main.a9bd103c.js.map": "/Gender-React/static/js/main.a9bd103c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Gender-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d413f5.css",
+    "static/js/main.a9bd103c.js"
+  ]
+}
